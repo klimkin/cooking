@@ -2,6 +2,8 @@
 
 [Карри из курицы](main_dishes/chicken_curry.md)
 
+[Чили с говядиной](main_dishes/beef_chili.md)
+
 #Выпечка
 
-[Ржаной хлеб](Bakery/rye_bread.md)
+[Ржаной хлеб](bakery/rye_bread.md)

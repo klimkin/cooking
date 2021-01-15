@@ -1,7 +1,7 @@
 #Основные блюда
 
-[Карри из курицы](chicken_curry.md)
+[Карри из курицы](main_dishes/chicken_curry.md)
 
 #Выпечка
 
-[Ржаной хлеб](rye_bread.md)
+[Ржаной хлеб](Bakery/rye_bread.md)

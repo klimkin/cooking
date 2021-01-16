@@ -8,7 +8,7 @@
 
 [Чили с говядиной](main_dishes/beef_chili.md)
 
-[Соба - лапша из гречневой муки](main_dishes/soba.md)
+[Соба](main_dishes/soba.md)
 
 [Никудзяга](main_dishes/nikujaga_stew.md)
 

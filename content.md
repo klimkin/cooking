@@ -8,6 +8,8 @@
 
 [Чили с говядиной](main_dishes/beef_chili.md)
 
+[Соба - лапша из гречневой муки](main_dishes/soba.md)
+
 # Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

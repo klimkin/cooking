@@ -10,6 +10,8 @@
 
 [Соба - лапша из гречневой муки](main_dishes/soba.md)
 
+[Жаркое никуджага](main_dishes/nikujaga_stew.md)
+
 # Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

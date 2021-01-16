@@ -1,3 +1,7 @@
+# Супы
+
+[Борщ](soups/borscht.md)
+
 # Основные блюда
 
 [Карри из курицы](main_dishes/chicken_curry.md)

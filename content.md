@@ -1,9 +1,9 @@
-#Основные блюда
+# Основные блюда
 
 [Карри из курицы](main_dishes/chicken_curry.md)
 
 [Чили с говядиной](main_dishes/beef_chili.md)
 
-#Выпечка
+# Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

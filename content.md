@@ -15,3 +15,7 @@
 # Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)
+
+# Салаты
+
+[Бомбовая капуста](salads/bomb_cabbage.md)

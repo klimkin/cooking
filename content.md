@@ -16,6 +16,8 @@
 
 [Ржаной хлеб](bakery/rye_bread.md)
 
+[Торт 'трес лечес' (три молока)](bakery/tres_leches.md)
+
 # Салаты
 
 [Бомбовая капуста](salads/bomb_cabbage.md)

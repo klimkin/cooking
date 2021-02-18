@@ -1,3 +1,7 @@
+# Салаты
+
+[Бомбовая капуста](salads/bomb_cabbage.md)
+
 # Супы
 
 [Борщ](soups/borscht.md)
@@ -18,6 +22,6 @@
 
 [Торт 'трес лечес' (три молока)](bakery/tres_leches.md)
 
-# Салаты
+# Напитки
 
-[Бомбовая капуста](salads/bomb_cabbage.md)
+[Квас](drinks/kvass.md)

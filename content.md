@@ -16,6 +16,8 @@
 
 [Никудзяга](main_dishes/nikujaga_stew.md)
 
+[Котлеты для бургера](main_dishes/burger.md)
+
 # Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

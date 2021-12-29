@@ -22,6 +22,8 @@
 
 [Торт 'трес лечес' (три молока)](bakery/tres_leches.md)
 
+[Вафли для завтрака](bakery/waffles.md)
+
 # Напитки
 
 [Квас](drinks/kvass.md)

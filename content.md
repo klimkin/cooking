@@ -22,6 +22,8 @@
 
 [Ржаной хлеб](bakery/rye_bread.md)
 
+[Чисто ржаной хлеб с солодом](bakery/rye_bread_malt.md)
+
 [Торт 'трес лечес' (три молока)](bakery/tres_leches.md)
 
 [Вафли для завтрака](bakery/waffles.md)

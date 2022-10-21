@@ -18,6 +18,9 @@
 
 [Котлеты для бургера](main_dishes/burger.md)
 
+[Датч бэби](main_dishes/dutch_baby.md)
+
+
 # Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

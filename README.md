@@ -20,6 +20,7 @@
 
 [Датч бэби](main_dishes/dutch_baby.md)
 
+[Плов с курицей](main_dishes/plov.md)
 
 # Выпечка
 

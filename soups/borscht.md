@@ -1,4 +1,4 @@
-[назад в оглавление](../content.md)
+[назад в оглавление](../README.md)
 # Борщ
 
 Оригинальный рецепт борща: [Instant Pot Borscht {Authentic}](https://ifoodreal.com/instant-pot-borscht/#wprm-recipe-container-44121)

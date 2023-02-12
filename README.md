@@ -20,6 +20,8 @@
 
 [Датч бэби](main_dishes/dutch_baby.md)
 
+[Школьный омлет](main_dishes/school_omelette.md)
+
 [Плов с курицей](main_dishes/plov.md)
 
 # Выпечка

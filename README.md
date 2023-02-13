@@ -24,6 +24,8 @@
 
 [Плов с курицей](main_dishes/plov.md)
 
+[Пельмени по-азиатски](main_dishes/asian_dumplings.md)
+
 # Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

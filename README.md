@@ -10,6 +10,8 @@
 
 [Карри из курицы](main_dishes/chicken_curry.md)
 
+[Куриные крылышки](main_dishes/chicken_wings.md)
+
 [Чили с говядиной](main_dishes/beef_chili.md)
 
 [Соба](main_dishes/soba.md)

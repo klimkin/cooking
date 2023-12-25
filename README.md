@@ -38,6 +38,8 @@
 
 [Вафли для завтрака](bakery/waffles.md)
 
+[Фруктовый пирог (Fruitcake)](bakery/fruit_cake.md)
+
 # Напитки
 
 [Квас](drinks/kvass.md)

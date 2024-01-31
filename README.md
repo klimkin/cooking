@@ -40,6 +40,8 @@
 
 [Фруктовый пирог (Fruitcake)](bakery/fruit_cake.md)
 
+[Sesame thumbprints](bakery/sesame_thumbprints.md)
+
 # Напитки
 
 [Квас](drinks/kvass.md)

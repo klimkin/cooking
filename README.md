@@ -42,6 +42,8 @@
 
 [Sesame thumbprints](bakery/sesame_thumbprints.md)
 
+[Медово-имбирные пряники](bakery/pryaniki.md)
+
 # Напитки
 
 [Квас](drinks/kvass.md)

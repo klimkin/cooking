@@ -9,13 +9,13 @@
 - Dried cranberries 65g
 - Dried Apricots 40g
 - Brandy 100g
-- Honey - 1/4 cup
+- Honey - 85g
 
 **Dough**
-- Unsalted butter 75g
-- Sugar 50 g
+- Unsalted butter 90g
+- Sugar 60g
 - Eggs 2
-- Bread flour 70g
+- Bread flour 90g
 - Coarse salt 3/4 tsp
 - Ground ginger 1/3 tsp
 - Ground cinnamon 1/3 tsp
@@ -36,10 +36,10 @@
 - Incorporate the flour, spices, and walnuts; mix well.
 - Add the drained fruit mixture and fold it in with a spatula to evenly distribute fruits and dough.
 - Transfer the mixture to the prepared cake pan.
-- Bake for 1 hour 45 minutes to 2 hours, or until a cake tester comes out with only a few moist crumbs.
+- Bake for 1 hour and 40 to 45 minutes, or until a cake tester inserted into the center comes out with just a few moist crumbs.
 - In a small saucepan, combine apricot jam with water, stirring until melted and well combined.
 - Transfer the cake pan to a wire rack.
 - Brush the cake liberally with the jam mixture.
-- Allow it to cool completely.
+- Allow it to cool completely, preferably for a few hours.
 - Remove the cake from the pan.
 - Garnish the cake with fruits and nuts, and cover it with a final layer of jam.

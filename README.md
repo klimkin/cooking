@@ -28,6 +28,8 @@
 
 [Пельмени по-азиатски](main_dishes/asian_dumplings.md)
 
+[Макароны с сыром (Mac and cheese)](main_dishes/Mac_and_cheese.md)
+
 # Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

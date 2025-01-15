@@ -1,12 +1,16 @@
-# Салаты
+# Рецепты
+
+## Салаты
 
 [Бомбовая капуста](salads/bomb_cabbage.md)
 
-# Супы
+## Супы
 
 [Борщ](soups/borscht.md)
 
-# Основные блюда
+[Шурпа из ребер](soups/shupa.md)
+
+## Основные блюда
 
 [Карри из курицы](main_dishes/chicken_curry.md)
 
@@ -30,7 +34,7 @@
 
 [Макароны с сыром (Mac and cheese)](main_dishes/Mac_and_cheese.md)
 
-# Выпечка
+## Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)
 
@@ -46,6 +50,6 @@
 
 [Медово-имбирные пряники](bakery/pryaniki.md)
 
-# Напитки
+## Напитки
 
 [Квас](drinks/kvass.md)

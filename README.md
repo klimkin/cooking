@@ -4,6 +4,8 @@
 
 [Бомбовая капуста](salads/bomb_cabbage.md)
 
+[Оливье от шефа](salads/olivier.md)
+
 ## Супы
 
 [Борщ](soups/borscht.md)

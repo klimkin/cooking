@@ -8,7 +8,7 @@
 
 [Борщ](soups/borscht.md)
 
-[Шурпа из ребер](soups/shupa.md)
+[Шурпа из ребер](soups/shurpa.md)
 
 ## Основные блюда
 

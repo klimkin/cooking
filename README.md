@@ -52,6 +52,8 @@
 
 [Медово-имбирные пряники](bakery/pryaniki.md)
 
+[Homemade soft pretzels](bakery/pretzels.md)
+
 ## Напитки
 
 [Квас](drinks/kvass.md)

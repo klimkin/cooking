@@ -36,6 +36,8 @@
 
 [Макароны с сыром (Mac and cheese)](main_dishes/Mac_and_cheese.md)
 
+[Цыплёнок табака от Владимира Высоцкого](main_dishes/ciplenok_tabaka_ot_v_vysockogo.md)
+
 ## Выпечка
 
 [Ржаной хлеб](bakery/rye_bread.md)

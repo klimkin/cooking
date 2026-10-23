@@ -20,6 +20,6 @@
 
 **Процесс**
 1. Thin slice white onion and mince the garlic, then soften (pref caramelize) in pot with some vegetable oil.
-2. Аdd cubed potatoes and carrots and add 4 cups of water mixed with the dashi stock. Add soy sauce and mirin and stir!
+2. Add cubed potatoes and carrots and add 4 cups of water mixed with the dashi stock. Add soy sauce and mirin and stir!
 3. Let simmer for  30 min until carrots and potatoes are softening. Add beef and let simmer for 15 more minutes so everything is soft and cooked.
 4. Add salt if needed and fresh green onions.
